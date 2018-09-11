@@ -1,0 +1,14 @@
+Les utilisateurs:
+*Admin :
+login : badara
+password : casa
+OU
+pin : 1234
+*Utilisateur simple :
+login : zeyna
+password : casa
+OU
+pin : 12345
+
+NB: le pin ou le mot de passe sont au choix.
+Amuse toi.
